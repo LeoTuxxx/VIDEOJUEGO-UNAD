@@ -2,7 +2,7 @@
 
 ## Información del Estudiante
 
-![Foto](perfil/foto.jpg)
+![Foto](Perfil/foto.jpg)
 
 **Nombre:** German Leonardo Hernandez  
 **Rol:** Desarrollador Integral (Programador, Diseñador, Gestor de Proyecto)  
